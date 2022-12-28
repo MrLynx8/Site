@@ -1,0 +1,179 @@
+/* Divisions */
+.Top{
+
+  color: #243763;
+  background-color: #DAE2B6;
+  height: auto;
+  width: auto;
+  margin:0;
+}
+
+.Middle{
+  height: auto;
+  width: auto;
+  margin-top: 50px;
+}
+
+.Bottom{
+  height: 150px;
+  width: auto;
+  background-color: #7D8F69
+
+}
+/* Body */
+body{
+  margin:0;
+
+}
+/* Images */
+
+.prof{
+  border-radius: 100px;
+
+}
+
+.img2{
+    border-radius: 150px;
+
+
+}
+
+.img3{
+    border-radius: 100px;
+    padding-left: 150px;
+}
+
+.bg1{
+  position: relative;
+  top:3px;
+}
+
+p{
+
+
+   margin-top: 0;
+   margin-bottom: 0;
+ }
+
+/* Text */
+.tt {
+  text-align: center;
+  font-family: 'Aladin', cursive;
+  font-size: 70px;
+  margin-top: 0;
+  padding-top: 200px;
+
+    }
+.tb {
+      text-align: center;
+
+      font-family: 'Aladin', cursive;
+      margin-top: 0;
+      font-size: 30px;
+    }
+
+
+
+
+.pt1{
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  color: #243763;
+  font-size: 35px;
+  font-weight: bolder;
+  padding-top: 30px;
+}
+.p1{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 35px;
+}
+.pt2{
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  color: #243763;
+  font-size: 35px;
+  font-weight: bolder;
+  padding-top: 100px
+}
+hr{
+
+  border-style: none none dotted none;
+  height: 0;
+  width: 10%;
+  border-color: #E8DFCA;
+  border-width: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  }
+.tab1{
+  padding-top: 30px;
+  paddin;
+}
+.tab0{
+  margin-bottom: 0;
+  border-spacing: 0;
+
+}
+.p2{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  padding-left: 100px;
+
+}
+.p3{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  padding-left: 100px;
+
+}
+.p4{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+
+}
+.a1{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #243763;
+  text-decoration: none;
+  padding-top: 1px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+.a2{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #3C6255;
+  text-decoration: none;
+
+}
+.tab2{
+  text-align: center;
+}
+.p5{
+  text-align: center;
+
+}
+.p6{
+  text-align: center;
+ padding-left: 200px;
+}
+.p7{
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
