@@ -4,19 +4,19 @@
   color: #243763;
   background-color: #DAE2B6;
   height: auto;
-  width: auto;
+  max-width: 2500px;
   margin:0;
 }
 
 .Middle{
   height: auto;
-  width: auto;
+  max-width: 2500px;
   margin-top: 50px;
 }
 
 .Bottom{
   height: 150px;
-  width: auto;
+  max-width: 2500px;
   background-color: #7D8F69
 
 }
