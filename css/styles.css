@@ -160,20 +160,25 @@ hr{
   color: #3C6255;
   text-decoration: none;
 
+
 }
 .tab2{
   text-align: center;
 }
 .p5{
   text-align: center;
+  padding-bottom: 50px;
+  padding-top: 25px;
 
 }
 .p6{
   text-align: center;
  padding-left: 200px;
+ padding-bottom: 50px;
+ padding-top: 25px;
 }
 .p7{
   text-align: center;
   color: white;
-  padding-top: 50px;
+  padding-top
 }
